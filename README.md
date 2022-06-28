@@ -2,6 +2,16 @@
 ## FaceID App
 
 This is a facial recognition and verification app using Deep Learning with Tensorflow which is based on the paper: Siamese Neural Networks for One-Shot Image Recognition. The model is integrated into an app using Kivy App. 
+
+## Index
+
+- Workflow
+- Tech Stack
+- Deployement
+- Authors
+- License
+- Face App Preview
+
 ## WorkFlow
 
 **Building a Siamese Model**
